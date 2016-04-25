@@ -6,3 +6,4 @@ Changements faits localement maintenant
 Ajout modif distante
 
 Bonjour ici le local
+Bonjour ici le distant ou l'autre
