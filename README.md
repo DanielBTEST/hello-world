@@ -4,3 +4,5 @@ Voici donc quelques changements
 
 Changements faits localement maintenant
 Ajout modif distante
+
+Bonjour ici le local
